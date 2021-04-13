@@ -14,7 +14,9 @@ namespace Clean.Architecture.Web
             Title = "Azure Devops - Github",
             Description = "Intégration de l'outil Github"
         };
-        
+
+       
+
 
         public static void Initialize(IServiceProvider serviceProvider)
         {
@@ -40,7 +42,8 @@ namespace Clean.Architecture.Web
             }
             dbContext.SaveChanges();
             dbContext.ToDoItems.Add(ToDoItem1);
-            
+           
+
 
             dbContext.SaveChanges();
         }
