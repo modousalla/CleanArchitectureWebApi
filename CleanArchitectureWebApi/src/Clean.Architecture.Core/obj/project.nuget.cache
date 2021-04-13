@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "XIQK/rvDfuL8BF64Rbb1t+28gU2/h/tO2LaJWixbVDWD3bnh6UHqWpI6IbCHcRZGKRM9lrjodVe1CaO7v10xLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\src\\Clean.Architecture.Core\\Clean.Architecture.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mbom0015\\.nuget\\packages\\ardalis.guardclauses\\3.0.1\\ardalis.guardclauses.3.0.1.nupkg.sha512",
+    "C:\\Users\\mbom0015\\.nuget\\packages\\ardalis.result\\3.1.0\\ardalis.result.3.1.0.nupkg.sha512",
+    "C:\\Users\\mbom0015\\.nuget\\packages\\ardalis.specification\\4.2.0\\ardalis.specification.4.2.0.nupkg.sha512",
+    "C:\\Users\\mbom0015\\.nuget\\packages\\jetbrains.annotations\\2019.1.3\\jetbrains.annotations.2019.1.3.nupkg.sha512",
+    "C:\\Users\\mbom0015\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,445 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\tests\\Clean.Architecture.UnitTests\\Clean.Architecture.UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\src\\Clean.Architecture.Core\\Clean.Architecture.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\src\\Clean.Architecture.Core\\Clean.Architecture.Core.csproj",
+        "projectName": "Clean.Architecture.Core",
+        "projectPath": "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\src\\Clean.Architecture.Core\\Clean.Architecture.Core.csproj",
+        "packagesPath": "C:\\Users\\mbom0015\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\src\\Clean.Architecture.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mbom0015\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\src\\Clean.Architecture.SharedKernel\\Clean.Architecture.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\src\\Clean.Architecture.SharedKernel\\Clean.Architecture.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Ardalis.GuardClauses": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Ardalis.Result": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Ardalis.Specification": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\src\\Clean.Architecture.Infrastructure\\Clean.Architecture.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\src\\Clean.Architecture.Infrastructure\\Clean.Architecture.Infrastructure.csproj",
+        "projectName": "Clean.Architecture.Infrastructure",
+        "projectPath": "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\src\\Clean.Architecture.Infrastructure\\Clean.Architecture.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\mbom0015\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\src\\Clean.Architecture.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mbom0015\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\src\\Clean.Architecture.Core\\Clean.Architecture.Core.csproj": {
+                "projectPath": "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\src\\Clean.Architecture.Core\\Clean.Architecture.Core.csproj"
+              },
+              "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\src\\Clean.Architecture.SharedKernel\\Clean.Architecture.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\src\\Clean.Architecture.SharedKernel\\Clean.Architecture.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Ardalis.EFCore.Extensions": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Ardalis.Specification.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "SQLite": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\src\\Clean.Architecture.SharedKernel\\Clean.Architecture.SharedKernel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\src\\Clean.Architecture.SharedKernel\\Clean.Architecture.SharedKernel.csproj",
+        "projectName": "Clean.Architecture.SharedKernel",
+        "projectPath": "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\src\\Clean.Architecture.SharedKernel\\Clean.Architecture.SharedKernel.csproj",
+        "packagesPath": "C:\\Users\\mbom0015\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\src\\Clean.Architecture.SharedKernel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mbom0015\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Ardalis.Specification": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\src\\Clean.Architecture.Web\\Clean.Architecture.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\src\\Clean.Architecture.Web\\Clean.Architecture.Web.csproj",
+        "projectName": "Clean.Architecture.Web",
+        "projectPath": "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\src\\Clean.Architecture.Web\\Clean.Architecture.Web.csproj",
+        "packagesPath": "C:\\Users\\mbom0015\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\src\\Clean.Architecture.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mbom0015\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\src\\Clean.Architecture.Infrastructure\\Clean.Architecture.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\src\\Clean.Architecture.Infrastructure\\Clean.Architecture.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Ardalis.ApiEndpoints": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Ardalis.ListStartupServices": {
+              "target": "Package",
+              "version": "[1.1.3, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\tests\\Clean.Architecture.UnitTests\\Clean.Architecture.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\tests\\Clean.Architecture.UnitTests\\Clean.Architecture.UnitTests.csproj",
+        "projectName": "Clean.Architecture.UnitTests",
+        "projectPath": "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\tests\\Clean.Architecture.UnitTests\\Clean.Architecture.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\mbom0015\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\tests\\Clean.Architecture.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mbom0015\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\src\\Clean.Architecture.Web\\Clean.Architecture.Web.csproj": {
+                "projectPath": "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\src\\Clean.Architecture.Web\\Clean.Architecture.Web.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Ardalis.Result": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.8.3, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "ReportGenerator": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
