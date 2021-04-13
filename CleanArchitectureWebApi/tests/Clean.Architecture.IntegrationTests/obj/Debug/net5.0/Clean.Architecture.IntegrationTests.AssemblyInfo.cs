@@ -11,15 +11,17 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Clean.Architecture.Core", "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\sr" +
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Clean.Architecture.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\sr" +
     "c\\Clean.Architecture.Core", "Clean.Architecture.Core.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Clean.Architecture.Infrastructure", "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\sr" +
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Clean.Architecture.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyTok" +
+    "en=null", "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\sr" +
     "c\\Clean.Architecture.Infrastructure", "Clean.Architecture.Infrastructure.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Clean.Architecture.SharedKernel", "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\sr" +
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Clean.Architecture.SharedKernel, Version=1.0.0.0, Culture=neutral, PublicKeyToken" +
+    "=null", "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\sr" +
     "c\\Clean.Architecture.SharedKernel", "Clean.Architecture.SharedKernel.csproj", "0")]
 [assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Clean.Architecture.UnitTests", "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\te" +
     "sts\\Clean.Architecture.UnitTests", "Clean.Architecture.UnitTests.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Clean.Architecture.Web", "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\sr" +
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Clean.Architecture.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\mbom0015\\source\\repos\\CleanArchitectureWebApi\\CleanArchitectureWebApi\\sr" +
     "c\\Clean.Architecture.Web", "Clean.Architecture.Web.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Clean.Architecture.IntegrationTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
