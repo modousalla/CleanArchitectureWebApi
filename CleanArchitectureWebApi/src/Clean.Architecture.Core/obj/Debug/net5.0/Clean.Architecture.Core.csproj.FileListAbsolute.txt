@@ -1,0 +1,15 @@
+C:\Users\mbom0015\source\repos\CleanArchitectureWebApi\CleanArchitectureWebApi\src\Clean.Architecture.Core\bin\Debug\net5.0\Clean.Architecture.Core.deps.json
+C:\Users\mbom0015\source\repos\CleanArchitectureWebApi\CleanArchitectureWebApi\src\Clean.Architecture.Core\bin\Debug\net5.0\Clean.Architecture.Core.dll
+C:\Users\mbom0015\source\repos\CleanArchitectureWebApi\CleanArchitectureWebApi\src\Clean.Architecture.Core\bin\Debug\net5.0\ref\Clean.Architecture.Core.dll
+C:\Users\mbom0015\source\repos\CleanArchitectureWebApi\CleanArchitectureWebApi\src\Clean.Architecture.Core\bin\Debug\net5.0\Clean.Architecture.Core.pdb
+C:\Users\mbom0015\source\repos\CleanArchitectureWebApi\CleanArchitectureWebApi\src\Clean.Architecture.Core\bin\Debug\net5.0\Clean.Architecture.SharedKernel.dll
+C:\Users\mbom0015\source\repos\CleanArchitectureWebApi\CleanArchitectureWebApi\src\Clean.Architecture.Core\bin\Debug\net5.0\Clean.Architecture.SharedKernel.pdb
+C:\Users\mbom0015\source\repos\CleanArchitectureWebApi\CleanArchitectureWebApi\src\Clean.Architecture.Core\obj\Debug\net5.0\Clean.Architecture.Core.csprojAssemblyReference.cache
+C:\Users\mbom0015\source\repos\CleanArchitectureWebApi\CleanArchitectureWebApi\src\Clean.Architecture.Core\obj\Debug\net5.0\Clean.Architecture.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbom0015\source\repos\CleanArchitectureWebApi\CleanArchitectureWebApi\src\Clean.Architecture.Core\obj\Debug\net5.0\Clean.Architecture.Core.AssemblyInfoInputs.cache
+C:\Users\mbom0015\source\repos\CleanArchitectureWebApi\CleanArchitectureWebApi\src\Clean.Architecture.Core\obj\Debug\net5.0\Clean.Architecture.Core.AssemblyInfo.cs
+C:\Users\mbom0015\source\repos\CleanArchitectureWebApi\CleanArchitectureWebApi\src\Clean.Architecture.Core\obj\Debug\net5.0\Clean.Architecture.Core.csproj.CoreCompileInputs.cache
+C:\Users\mbom0015\source\repos\CleanArchitectureWebApi\CleanArchitectureWebApi\src\Clean.Architecture.Core\obj\Debug\net5.0\Clean.Architecture.Core.csproj.CopyComplete
+C:\Users\mbom0015\source\repos\CleanArchitectureWebApi\CleanArchitectureWebApi\src\Clean.Architecture.Core\obj\Debug\net5.0\Clean.Architecture.Core.dll
+C:\Users\mbom0015\source\repos\CleanArchitectureWebApi\CleanArchitectureWebApi\src\Clean.Architecture.Core\obj\Debug\net5.0\ref\Clean.Architecture.Core.dll
+C:\Users\mbom0015\source\repos\CleanArchitectureWebApi\CleanArchitectureWebApi\src\Clean.Architecture.Core\obj\Debug\net5.0\Clean.Architecture.Core.pdb

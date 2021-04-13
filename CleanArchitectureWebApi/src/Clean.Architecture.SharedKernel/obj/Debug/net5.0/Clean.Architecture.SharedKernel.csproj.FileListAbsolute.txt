@@ -1,0 +1,12 @@
+C:\Users\mbom0015\source\repos\CleanArchitectureWebApi\CleanArchitectureWebApi\src\Clean.Architecture.SharedKernel\bin\Debug\net5.0\Clean.Architecture.SharedKernel.deps.json
+C:\Users\mbom0015\source\repos\CleanArchitectureWebApi\CleanArchitectureWebApi\src\Clean.Architecture.SharedKernel\bin\Debug\net5.0\Clean.Architecture.SharedKernel.dll
+C:\Users\mbom0015\source\repos\CleanArchitectureWebApi\CleanArchitectureWebApi\src\Clean.Architecture.SharedKernel\bin\Debug\net5.0\ref\Clean.Architecture.SharedKernel.dll
+C:\Users\mbom0015\source\repos\CleanArchitectureWebApi\CleanArchitectureWebApi\src\Clean.Architecture.SharedKernel\bin\Debug\net5.0\Clean.Architecture.SharedKernel.pdb
+C:\Users\mbom0015\source\repos\CleanArchitectureWebApi\CleanArchitectureWebApi\src\Clean.Architecture.SharedKernel\obj\Debug\net5.0\Clean.Architecture.SharedKernel.csprojAssemblyReference.cache
+C:\Users\mbom0015\source\repos\CleanArchitectureWebApi\CleanArchitectureWebApi\src\Clean.Architecture.SharedKernel\obj\Debug\net5.0\Clean.Architecture.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbom0015\source\repos\CleanArchitectureWebApi\CleanArchitectureWebApi\src\Clean.Architecture.SharedKernel\obj\Debug\net5.0\Clean.Architecture.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\mbom0015\source\repos\CleanArchitectureWebApi\CleanArchitectureWebApi\src\Clean.Architecture.SharedKernel\obj\Debug\net5.0\Clean.Architecture.SharedKernel.AssemblyInfo.cs
+C:\Users\mbom0015\source\repos\CleanArchitectureWebApi\CleanArchitectureWebApi\src\Clean.Architecture.SharedKernel\obj\Debug\net5.0\Clean.Architecture.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\mbom0015\source\repos\CleanArchitectureWebApi\CleanArchitectureWebApi\src\Clean.Architecture.SharedKernel\obj\Debug\net5.0\Clean.Architecture.SharedKernel.dll
+C:\Users\mbom0015\source\repos\CleanArchitectureWebApi\CleanArchitectureWebApi\src\Clean.Architecture.SharedKernel\obj\Debug\net5.0\ref\Clean.Architecture.SharedKernel.dll
+C:\Users\mbom0015\source\repos\CleanArchitectureWebApi\CleanArchitectureWebApi\src\Clean.Architecture.SharedKernel\obj\Debug\net5.0\Clean.Architecture.SharedKernel.pdb
